@@ -1,16 +1,15 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:51:21.365748
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 5:35
 #+TITLE: 雪竇石奇禪師語錄
 #+PROPERTY: CBETA_ID J26nB183
 #+PROPERTY: ID KR6q0405
 #+PROPERTY: SOURCE Jiaxing Canon Vol. 26, No. B183
 #+PROPERTY: VOL 26
 #+PROPERTY: BASEEDITION J
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6q0405_J_008-0508c> 
 #+PROPERTY: JUAN 8
-
- 雪竇石奇禪師語錄卷第八¶
+雪竇石奇禪師語錄卷第八¶
 嗣法門人行正等編錄¶
 
 機緣下¶
@@ -218,7 +217,7 @@
 得。僧云。大善知識因甚借學人鼻孔出氣。師云。從來¶
 有些子。¶
 
-代語¶
+* 代語¶
 
 法幢藏主答徑山費和尚五問。呈師。復請師答。師援¶
 筆答之。
@@ -228,7 +227,7 @@
 師答。為和¶
 尚高鑒如此。
 
-問。鵬搏峰與雁鳧峰相交。且道說個¶
+問。鵬搏峰與㕍鳧峰相交。且道說個¶
 甚麼。
 
 師答。不妨疑著。
